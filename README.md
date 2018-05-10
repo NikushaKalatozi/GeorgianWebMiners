@@ -1,15 +1,5 @@
-Private Scanner Results: 
-
-
-
-   ___ _   _ ___ _____ ___  __  __    ___  ___   _   _  _ <br/>
-  / __| | | / __|_   _/ _ \|  \/  |  / __|/ __| /_\ | \| |<br/>
- | (__| |_| \__ \ | || (_) | |\/| |  \__ \ (__ / _ \| .`  <br/>
-  \___|\___/|___/ |_| \___/|_|  |_|  |___/\___/_/ \_\_|\_|<br/>
-                                                          <br/>
-
-
-
+Private Scanner Result Date: 19-11-2017
+//////////////////////////////////////////
 adjaranet.com<br/>
 airnav.ge<br/>
 aura.ge<br/>
@@ -33,4 +23,5 @@ droni.ge<br/>
 cerodena.ge<br/>
 wow.ge<br/>
 profkoleji-opizari.ge<br/>
-eurus.ge<br/>
+eurus.ge<br
+//////////////////////////////////////////
