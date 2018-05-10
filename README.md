@@ -1,5 +1,5 @@
-Private Scanner Result Date: 19-11-2017
-//////////////////////////////////////////
+Private Scanner Result Date: 19-11-2017<br/>
+//////////////////////////////////////////<br/>
 adjaranet.com<br/>
 airnav.ge<br/>
 aura.ge<br/>
@@ -23,5 +23,5 @@ droni.ge<br/>
 cerodena.ge<br/>
 wow.ge<br/>
 profkoleji-opizari.ge<br/>
-eurus.ge<br
-//////////////////////////////////////////
+eurus.ge<br/>
+//////////////////////////////////////////<br/>
