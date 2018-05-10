@@ -1,5 +1,5 @@
 Private Scanner Result Date: 19-11-2017<br/>
-List of Georgian websites who are mining anonymously.<br/>
+List of Georgian websites who is mining anonymously.<br/>
 //////////////////////////////////////////////////////////////////////<br/>
 adjaranet.com<br/>
 airnav.ge<br/>
